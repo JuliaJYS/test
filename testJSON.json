@@ -1,0 +1,25 @@
+{
+ "ArrayGBCalculating": [
+  {
+   "GUID": "1e3c8f0c-4197-11e1-bd98-005056c00008",
+   "Tovar": "Блок ровный Bonolit (Старая Купавна) D 300 600*250*375 мм (1,8 куб.м./пд.)",
+   "Zavod": "Bonolit (Старая Купавна)",
+   "Poddon": 48,
+   "Weight": 35664,
+   "Summa": 319680,
+   "GlueKolvo": 62,
+   "GlueWeight": 1550,
+   "GlueSumma": 14260,
+   "DeliverySumma": 10100,
+   "TotalSumma": 344040,
+   "KolFur20": 1,
+   "KolFur10": 1,
+   "KolMan20": 1,
+   "KolMan10": 0,
+   "PriceFur20": 10100,
+   "PriceFur10": 0,
+   "PriceMan20": 0,
+   "PriceMan10": 0
+  }
+ ]
+}
